@@ -22,6 +22,7 @@ public class TypeFactory
     }
 
     public static T CreateWithParameters<T>(Object[] objects)
+        where T : class
     {
         Type myType = typeof(T);
         Object instance = Activator.CreateInstance(myType, objects);
