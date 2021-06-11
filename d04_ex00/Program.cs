@@ -11,9 +11,8 @@ using Microsoft.AspNetCore.Http;
     var bindingAttr = BindingFlags.Public | 
                       BindingFlags.NonPublic | 
                       BindingFlags.Static | 
-                      BindingFlags.Instance | 
-                      BindingFlags.DeclaredOnly;
-    
+                      BindingFlags.Instance;
+
     var fields = contextType.GetFields(bindingAttr);
     Console.WriteLine("Fields:");
     foreach (var field in fields)
@@ -23,9 +22,8 @@ using Microsoft.AspNetCore.Http;
 
     bindingAttr =  BindingFlags.Public |
                    BindingFlags.Static | 
-                   BindingFlags.Instance | 
-                   BindingFlags.DeclaredOnly;
-    
+                   BindingFlags.Instance;
+
     var Properties = contextType.GetProperties(bindingAttr);
     Console.WriteLine("\nProperties:");
     foreach (var property in Properties)
@@ -33,7 +31,7 @@ using Microsoft.AspNetCore.Http;
         Console.WriteLine(property.PropertyType + " " + property.Name);
     }
     
-    var Methods = contextType.GetMethods();
+    var Methods = contextType.GetMethods(bindingAttr);
     Console.WriteLine("\nMethods:");
     foreach (var method in Methods)
     {
