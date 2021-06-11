@@ -1,0 +1,15 @@
+/Users/dquordle/RiderProjects/d04/d04_ex02/bin/Debug/net5.0/d04_ex02.deps.json
+/Users/dquordle/RiderProjects/d04/d04_ex02/bin/Debug/net5.0/d04_ex02.runtimeconfig.json
+/Users/dquordle/RiderProjects/d04/d04_ex02/bin/Debug/net5.0/d04_ex02.runtimeconfig.dev.json
+/Users/dquordle/RiderProjects/d04/d04_ex02/bin/Debug/net5.0/d04_ex02.dll
+/Users/dquordle/RiderProjects/d04/d04_ex02/bin/Debug/net5.0/ref/d04_ex02.dll
+/Users/dquordle/RiderProjects/d04/d04_ex02/bin/Debug/net5.0/d04_ex02.pdb
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/d04_ex02.csprojAssemblyReference.cache
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/d04_ex02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/d04_ex02.AssemblyInfoInputs.cache
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/d04_ex02.AssemblyInfo.cs
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/d04_ex02.csproj.CoreCompileInputs.cache
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/d04_ex02.dll
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/ref/d04_ex02.dll
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/d04_ex02.pdb
+/Users/dquordle/RiderProjects/d04/d04_ex02/obj/Debug/net5.0/d04_ex02.genruntimeconfig.cache
